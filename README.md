@@ -34,7 +34,7 @@ Este script gerencia o sistema de saúde do jogador e dos inimigos. Ele lida com
 ### 5️⃣ ItemCollector.cs
 Este script permite que o jogador colete itens no jogo. Ele lida com a detecção de colisões e a atualização do inventário do jogador.
 
-### LevelManager.cs
+### 6️⃣ LevelManager.cs
 Este script gerencia a transição entre os níveis do jogo. Ele lida com o carregamento e descarregamento de cenas e a progressão do jogador.
 
 ## Como Usar
