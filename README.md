@@ -63,7 +63,7 @@ Adicione ItemCollector.cs ao objeto do jogador.
 
 Adicione LevelManager.cs a um objeto vazio na cena principal.
 
-## Contribuições
+## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar este projeto.
 
 ## Licença
