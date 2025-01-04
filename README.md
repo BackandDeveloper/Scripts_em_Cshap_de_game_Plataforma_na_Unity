@@ -37,7 +37,7 @@ Este script permite que o jogador colete itens no jogo. Ele lida com a detecçã
 ### 6️⃣ LevelManager.cs
 Este script gerencia a transição entre os níveis do jogo. Ele lida com o carregamento e descarregamento de cenas e a progressão do jogador.
 
-## Visualização de um Game 2D na Unity
+## 🕹️| Visualização de um Game 2D na Unity
 
 ![1867378_2550_3](https://github.com/user-attachments/assets/e51ac7b5-fd0b-49bf-ab02-17f380e9c543)
 
