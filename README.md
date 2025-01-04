@@ -31,7 +31,7 @@ Este script gerencia o estado geral do jogo, como início, pausa e fim do jogo. 
 ### 4️⃣ HealthSystem.cs
 Este script gerencia o sistema de saúde do jogador e dos inimigos. Ele lida com danos, cura e morte.
 
-### ItemCollector.cs
+### 5️⃣ ItemCollector.cs
 Este script permite que o jogador colete itens no jogo. Ele lida com a detecção de colisões e a atualização do inventário do jogador.
 
 ### LevelManager.cs
