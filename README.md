@@ -42,9 +42,10 @@ Este script gerencia a transição entre os níveis do jogo. Ele lida com o carr
 ![1867378_2550_3](https://github.com/user-attachments/assets/e51ac7b5-fd0b-49bf-ab02-17f380e9c543)
 
 ## Como Usar
-1. Clone este repositório:
-   ```
-   git clone https://github.com/BackandDeveloper/Scripts_em_Cshap_de_game_Plataforma_na_Unity.git
+
+Clone este repositório:
+```
+git clone https://github.com/BackandDeveloper/Scripts_em_Cshap_de_game_Plataforma_na_Unity.git
 Importe os scripts para o seu projeto Unity:
 ```
 Abra o Unity.
