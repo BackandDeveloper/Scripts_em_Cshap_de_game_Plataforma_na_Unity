@@ -25,7 +25,7 @@ Este script controla o movimento e as ações do jogador. Ele lida com entrada d
 ### 2️⃣ EnemyController.cs
 Este script controla o comportamento dos inimigos no jogo. Ele lida com patrulhamento, perseguição do jogador e ataques.
 
-### GameManager.cs
+### 3️⃣ GameManager.cs
 Este script gerencia o estado geral do jogo, como início, pausa e fim do jogo. Ele também lida com a pontuação e outras variáveis globais.
 
 ### HealthSystem.cs
