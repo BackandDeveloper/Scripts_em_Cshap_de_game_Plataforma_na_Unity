@@ -57,7 +57,7 @@ Importe os scripts para o seu projeto Unity:
 ```
 Crie um novo projeto ou abra um projeto existente.
 ```
-Importe os scripts para a pasta Assets/Scripts do seu projeto Unity.
+3️⃣ Importe os scripts para a pasta Assets/Scripts do seu projeto Unity.
 ```
 Adicione os scripts aos objetos apropriados no seu jogo:
 ```
