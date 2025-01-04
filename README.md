@@ -5,6 +5,7 @@ Este repositório contém scripts na linguagem de programação C# para serem us
 
 ## 🗂️| Estrutura do Projeto
 
+```
 Scripts_em_Csharp_de_game_Plataforma_na_Unity/
 ├── Scripts/
 │   ├── PlayerController.cs
@@ -14,8 +15,7 @@ Scripts_em_Csharp_de_game_Plataforma_na_Unity/
 │   ├── ItemCollector.cs
 │   ├── LevelManager.cs
 ├── README.md
-
-
+```
 
 ## Scripts
 
