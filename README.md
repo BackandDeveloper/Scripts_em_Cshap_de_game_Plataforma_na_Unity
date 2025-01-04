@@ -1,6 +1,6 @@
 ## 📄| Scripts em C# para Desenvolvimento de um Jogo de Plataforma 2D na Unity
 
-## Descrição
+## 🗒️| Descrição
 Este repositório contém scripts na linguagem de programação C# para serem usados no desenvolvimento de jogos 2D de plataforma na Unity. Os scripts são projetados para fornecer funcionalidades básicas e avançadas para jogos de plataforma, como controle de jogador, inimigos, gerenciamento de níveis, sistema de saúde e coleta de itens.
 
 ## 🗂️| Estrutura do Projeto
