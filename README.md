@@ -69,7 +69,7 @@ Adicione EnemyController.cs aos objetos dos inimigos.
 ```
 Adicione HealthSystem.cs aos objetos que precisam de um sistema de saúde.
 ```
-Adicione ItemCollector.cs ao objeto do jogador.
+6️⃣ Adicione ItemCollector.cs ao objeto do jogador.
 ```
 ```
 Adicione LevelManager.cs a um objeto vazio na cena principal.
