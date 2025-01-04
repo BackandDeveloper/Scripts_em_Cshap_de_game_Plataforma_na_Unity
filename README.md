@@ -53,7 +53,7 @@ ________________________________________________________________________________
 git clone https://github.com/BackandDeveloper/Scripts_em_Cshap_de_game_Plataforma_na_Unity.git
 Importe os scripts para o seu projeto Unity:
 ```
-Abra o Unity.
+2️⃣ Abra o Unity.
 ```
 Crie um novo projeto ou abra um projeto existente.
 ```
