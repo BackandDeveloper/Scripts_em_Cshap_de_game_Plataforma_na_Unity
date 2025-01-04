@@ -73,4 +73,4 @@ Este projeto está licenciado sob a MIT License.
 
 Para mais informações, entre em contato: 
 
- E-mail:
+ E-mail: henrique.pedro62@ifce.edu.br
