@@ -22,7 +22,7 @@ Scripts_em_Csharp_de_game_Plataforma_na_Unity/
 ### 1️⃣ PlayerController.cs
 Este script controla o movimento e as ações do jogador. Ele lida com entrada do usuário, física do personagem e animações.
 
-### EnemyController.cs
+### 2️⃣ EnemyController.cs
 Este script controla o comportamento dos inimigos no jogo. Ele lida com patrulhamento, perseguição do jogador e ataques.
 
 ### GameManager.cs
