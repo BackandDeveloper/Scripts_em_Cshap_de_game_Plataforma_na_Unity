@@ -61,7 +61,7 @@ Crie um novo projeto ou abra um projeto existente.
 ```
 Adicione os scripts aos objetos apropriados no seu jogo:
 ```
-Adicione PlayerController.cs ao objeto do jogador.
+4️⃣ Adicione PlayerController.cs ao objeto do jogador.
 ```
 Adicione EnemyController.cs aos objetos dos inimigos.
 ```
