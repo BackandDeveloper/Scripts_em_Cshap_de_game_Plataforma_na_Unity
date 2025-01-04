@@ -39,28 +39,28 @@ Este script gerencia a transição entre os níveis do jogo. Ele lida com o carr
 
 ## Como Usar
 1. Clone este repositório:
-   ```bash
+   ```
    git clone https://github.com/BackandDeveloper/Scripts_em_Cshap_de_game_Plataforma_na_Unity.git
 Importe os scripts para o seu projeto Unity:
-
+```
 Abra o Unity.
-
+```
 Crie um novo projeto ou abra um projeto existente.
-
+```
 Importe os scripts para a pasta Assets/Scripts do seu projeto Unity.
-
+```
 Adicione os scripts aos objetos apropriados no seu jogo:
-
+```
 Adicione PlayerController.cs ao objeto do jogador.
-
+```
 Adicione EnemyController.cs aos objetos dos inimigos.
-
+```
 Adicione GameManager.cs a um objeto vazio na cena principal.
-
+```
 Adicione HealthSystem.cs aos objetos que precisam de um sistema de saúde.
-
+```
 Adicione ItemCollector.cs ao objeto do jogador.
-
+```
 Adicione LevelManager.cs a um objeto vazio na cena principal.
 
 ## 👥| Contribuições
@@ -72,3 +72,5 @@ Este projeto está licenciado sob a MIT License.
 ## 📲| Contato
 
 Para mais informações, entre em contato: 
+
+ E-mail:
