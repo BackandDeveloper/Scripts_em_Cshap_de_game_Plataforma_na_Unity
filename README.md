@@ -65,7 +65,7 @@ Adicione os scripts aos objetos apropriados no seu jogo:
 ```
 Adicione EnemyController.cs aos objetos dos inimigos.
 ```
-Adicione GameManager.cs a um objeto vazio na cena principal.
+5️⃣ Adicione GameManager.cs a um objeto vazio na cena principal.
 ```
 Adicione HealthSystem.cs aos objetos que precisam de um sistema de saúde.
 ```
