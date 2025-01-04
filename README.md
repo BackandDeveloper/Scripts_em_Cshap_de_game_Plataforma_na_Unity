@@ -3,8 +3,18 @@
 ## Descrição
 Este repositório contém scripts na linguagem de programação C# para serem usados no desenvolvimento de jogos 2D de plataforma na Unity. Os scripts são projetados para fornecer funcionalidades básicas e avançadas para jogos de plataforma, como controle de jogador, inimigos, gerenciamento de níveis, sistema de saúde e coleta de itens.
 
-## Estrutura do Projeto
-Scripts_em_Csharp_de_game_Plataforma_na_Unity/ ├── Scripts/ │ ├── PlayerController.cs│ ├── EnemyController.cs│ ├── GameManager.cs│ ├── HealthSystem.cs│ ├── ItemCollector.cs│ ├── LevelManager.cs├── README.md
+## 🗂️| Estrutura do Projeto
+
+Scripts_em_Csharp_de_game_Plataforma_na_Unity/
+├── Scripts/
+│   ├── PlayerController.cs
+│   ├── EnemyController.cs
+│   ├── GameManager.cs
+│   ├── HealthSystem.cs
+│   ├── ItemCollector.cs
+│   ├── LevelManager.cs
+├── README.md
+
 
 
 ## Scripts
