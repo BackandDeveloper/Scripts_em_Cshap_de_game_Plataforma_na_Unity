@@ -41,6 +41,11 @@ Este script gerencia a transição entre os níveis do jogo. Ele lida com o carr
 
 ![1867378_2550_3](https://github.com/user-attachments/assets/e51ac7b5-fd0b-49bf-ab02-17f380e9c543)
 
+_______________________________________________________________________________________________________________________________________________________________________________________________
+
+![2707960_ef22_2](https://github.com/user-attachments/assets/d3a12cb4-9911-44de-89e0-10e7a3e0f319)
+
+
 ## 📋| Como Usar
 
 Clone este repositório:
