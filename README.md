@@ -17,7 +17,7 @@ Scripts_em_Csharp_de_game_Plataforma_na_Unity/
 ├── README.md
 ```
 
-## Scripts
+## 📝| Scripts
 
 ### PlayerController.cs
 Este script controla o movimento e as ações do jogador. Ele lida com entrada do usuário, física do personagem e animações.
