@@ -66,7 +66,7 @@ Adicione LevelManager.cs a um objeto vazio na cena principal.
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar este projeto.
 
-## Licença
+## 📑| Licença
 Este projeto está licenciado sob a MIT License.
 
 ## Contato
