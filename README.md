@@ -39,6 +39,8 @@ Este script gerencia a transição entre os níveis do jogo. Ele lida com o carr
 
 ## Visualização de um Game 2D na Unity
 
+![1867378_2550_3](https://github.com/user-attachments/assets/e51ac7b5-fd0b-49bf-ab02-17f380e9c543)
+
 ## Como Usar
 1. Clone este repositório:
    ```
