@@ -28,7 +28,7 @@ Este script controla o comportamento dos inimigos no jogo. Ele lida com patrulha
 ### 3️⃣ GameManager.cs
 Este script gerencia o estado geral do jogo, como início, pausa e fim do jogo. Ele também lida com a pontuação e outras variáveis globais.
 
-### HealthSystem.cs
+### 4️⃣ HealthSystem.cs
 Este script gerencia o sistema de saúde do jogador e dos inimigos. Ele lida com danos, cura e morte.
 
 ### ItemCollector.cs
